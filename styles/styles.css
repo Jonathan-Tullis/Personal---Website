@@ -1,9 +1,9 @@
 /* Base Styles */
 :root {
-   --primary-color: #330A1F; 
+   --primary-color: #3D2E41;; 
   --secondary-color: #0bbac1;
-  --accent1-color: #bb0864;
-  --accent2-color: white;
+  --accent1-color: black;
+  --accent2-color: black;
 
   --heading-font: "IM Fell French Canon SC", serif;
   --paragraph-font: Lato, Helvetica, sans-serif;
@@ -20,8 +20,8 @@
 body {
   margin: 0;
   font-family: var(--paragraph-font);
-  background-color: #f8f8f8;
-  color: #333;
+  background-color: #F5D283; 
+  color: white;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
